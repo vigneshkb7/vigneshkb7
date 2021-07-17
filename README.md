@@ -11,12 +11,28 @@ I am a fullstack software engineer from India
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@vigneshwiki07)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/8096748/vignesh-k-b)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/KBvignesh7)
+[<img align="left" alt="yt" src="https://img.shields.io/youtube/channel/subscribers/UCz5Hp46nHwhZtNEqxzccZxA?label=DigitalTech%20By%20Vignesh%20Balaji&style=social"/>](https://www.youtube.com/channel/UCz5Hp46nHwhZtNEqxzccZxA)
 <br>
 <br>
 ## Expertise
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-<img align="left" alt="yt" src="https://img.shields.io/youtube/channel/subscribers/UCz5Hp46nHwhZtNEqxzccZxA?label=DigitalTech%20By%20Vignesh%20Balaji&style=social"/>
+
+- JavaScript
+- React JS
+- Redux 
+- Node JS (Express and Koa)
+- Graph QL
+- Prisma
+- Docker
+- K8s
+- Solidity
+- HTML
+- CSS
+- Truffle Framework
+- DSA
+- System Design
+- SQL (postgres) and NoSQL (Mongo DB)
+- Jest 
+- Next JS
+
 <br>
 <br>
