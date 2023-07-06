@@ -14,6 +14,13 @@ I am a fullstack software engineer from India
 [<img align="left" alt="yt" src="https://img.shields.io/youtube/channel/subscribers/UCz5Hp46nHwhZtNEqxzccZxA?label=DigitalTech%20By%20Vignesh%20Balaji&style=social"/>](https://www.youtube.com/channel/UCz5Hp46nHwhZtNEqxzccZxA)
 <br>
 <br>
+
+## subscibe to the newsletters##
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/hackernoon-%230077B5.svg?&style=for-the-badge&logo=hackernoon&logoColor=white"/>](https://hackernoon.com/u/vigneshbalajidev)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/dev-%230077B5.svg?&style=for-the-badge&logo=dev&logoColor=white"/>](https://dev.to/vigneshkb7)
+
+
+
 ## Expertise
 
 - JavaScript
